@@ -13,7 +13,7 @@ Runs exunit tests in vim
 
 In your vimrc:
 
-    Bundle 'adamzaninovich/vim-exunit_runner'
+    Plugin 'adamzaninovich/vim-exunit_runner'
 
 ## Usage
 
